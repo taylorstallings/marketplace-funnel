@@ -11,7 +11,7 @@ The main visualizations used to support this conclusion are here, as well as in 
 
 <img width="977" height="427" alt="image" src="https://github.com/user-attachments/assets/2d215af0-c704-4f0f-9489-1e787e7bfa8f" />
 
-#Ask:
+# Ask:
 
 You’ve been provided with four datasets representing activity from our marketplace platform. Your task is to analyze the conversion funnel from search to successful payment and provide data-driven insights about our business.
 ## Dataset Description
