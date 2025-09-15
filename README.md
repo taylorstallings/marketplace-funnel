@@ -1,5 +1,9 @@
 # marketplace-funnel
 Analysis for marketplace funnel assessment
+
+This project analyzes the marketplace conversion funnel, highlights the biggest drop-offs, and provides a foundation for targeted improvements and A/B testing.
+
+
 Thanks for viewing my assessement! After exploring the data, I mainly wanted to focus on what stage of the conversion funnel had the most drop-off, and what metrics could be interpreted to understand this more.
 
 The main visualizations used to support this conclusion are here, as well as in the notebook:
